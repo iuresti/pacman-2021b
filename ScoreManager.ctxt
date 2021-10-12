@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ScoreManager
+comment1.params=pacmanScore
+comment1.target=void\ updateScore(int)
+numComments=2
